@@ -1,0 +1,17 @@
+.cell {
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    width: 200px;
+    height: 200px;
+}
+
+aside>Link {
+    float: left;
+    clear: left;
+}
+
+.cell>img {
+    max-width: 100%;
+    height: auto;
+}
